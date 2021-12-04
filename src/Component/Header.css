@@ -1,0 +1,30 @@
+/* HEADER CSS */
+header {
+  background-color: #324376;
+
+}
+.nav-link {
+  color: #f5dd90 !important;
+  font-size: 2rem;
+  margin: 0 10px;
+  font-weight: bolder;
+}
+.navbar-nav {
+  margin-left: auto !important;
+}
+.navbar-brand {
+  letter-spacing: 0;
+  font-family: 'Mouse Memoirs', sans-serif;
+
+}
+.navbar-brand img {
+  width: 3.5rem;
+  
+}
+.nav-item a {
+  border-bottom: 2px solid transparent;
+  transition: all 0.3s linear;
+}
+.nav-item:hover a {
+  border-bottom: 2px solid #f5dd90;
+}

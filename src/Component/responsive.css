@@ -1,0 +1,5 @@
+@media screen and (max-width: 702px) {
+    .main-poster{
+        max-width: 100% !important;
+    }
+}
